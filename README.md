@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**CAdnany/Cadnany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<br/><a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Student</a>, <a href="https://github.com/CAdnany">Content Creator</a>
+## Hi, I'm Adnan, <a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Professional</a> 
 
 ⭐ Featured Projects:
 
@@ -42,3 +37,9 @@ Platforms and Technology Used: Elastic SIEM, Kali Linux, VMware Workstation
 
 [Wireshark](https://tinyurl.com/237ym7df)
 - Objective: Learn how to read the provided Wireshark TCP/HTTP log for network traffic 
+
+
+<!--
+**CAdnany/Cadnany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
