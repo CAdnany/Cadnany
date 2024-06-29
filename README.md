@@ -1,4 +1,4 @@
-## Hi, I'm Adnan, <a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Professional</a> 
+## Hi, I'm Adnan, <a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Professional</a> ☺
 
 ⭐ Featured Projects:
 
