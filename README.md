@@ -1,6 +1,6 @@
 ## Hi, I'm Adnan, <a href="https://www.linkedin.com/in/adnan-ali-yussuf-59151028b/">Cybersecurity Professional</a> ☺
 
-⭐ Featured Projects:
+## ⭐ Featured Projects:
 
 [Nessus - How To Configure A Vulnerbility Scan](https://tinyurl.com/mu9tub3x)
 
@@ -11,7 +11,7 @@ Discover, Prioritize, Assess, Report, Remediate and Verify
 Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.
 
 
-👨‍💻 Development Projects & Labs:
+## 👨‍💻 Development Projects & Labs:
 
 [File Permissions in Linux](https://tinyurl.com/bdfna5t7)
 
