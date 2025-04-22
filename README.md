@@ -3,20 +3,18 @@
 ## ⭐ Featured Projects:
 
 Building SOC & Honeypot Deployment in Azure Sentinel
-Built a functional SOC using Microsoft Sentinel and Azure, integrating a honeypot to analyze real-time threat traffic.
+- Objective: Built a functional SOC using Microsoft Sentinel and Azure, integrating a honeypot to analyze real-time threat traffic.
 Tools Used: Microsoft Sentinel, Azure, VMware Workstation
-
 Design and Configure Vulnerability Scan with Nessus
 Performed and configured vulnerability scans on virtual machines to identify and remediate security flaws.
 Tools Used: Tenable Nessus, Windows 10, VMware Workstation
-
 Elastic Stack SIEM 
 Deployed Elastic SIEM on Kali Linux to collect and analyze logs, simulate threat detection workflows.
 Tools Used: Elastic Stack, Kali Linux, VMware
-
 Active Directory IAM
 Simulated enterprise identity access management using Active Directory in VirtualBox.
 Tools Used: Windows Server, Active Directory, VirtualBox, Windows 10
+
 
 
 ## 👨‍💻 Development Projects & Labs:
