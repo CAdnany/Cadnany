@@ -2,27 +2,21 @@
 
 ## ⭐ Featured Projects:
 
-Elastic Stack SIEM
+Building SOC & Honeypot Deployment in Azure Sentinel
+Built a functional SOC using Microsoft Sentinel and Azure, integrating a honeypot to analyze real-time threat traffic.
+Tools Used: Microsoft Sentinel, Azure, VMware Workstation
 
-Deployed Elastic on Kali Linux to collect and analyze logs, simulate threat detection workflows.
+Design and Configure Vulnerability Scan with Nessus
+Performed and configured vulnerability scans on virtual machines to identify and remediate security flaws.
+Tools Used: Tenable Nessus, Windows 10, VMware Workstation
+
+Elastic Stack SIEM 
+Deployed Elastic SIEM on Kali Linux to collect and analyze logs, simulate threat detection workflows.
 Tools Used: Elastic Stack, Kali Linux, VMware
 
 Active Directory IAM
-
 Simulated enterprise identity access management using Active Directory in VirtualBox.
 Tools Used: Windows Server, Active Directory, VirtualBox, Windows 10
-
-
-[Building SOC & Honeypot Deployment in Azure Sentinel (Live Traffic)]
-Tools Used: Microsoft Sentinel, Azure, VMware Workstation
-
-Objective: Building a honeypot in Azure and ingested logs from various resources which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents.
-In this project, I built a honeypot in Azure Sentinel and ingested logs from various resources into a Log Analytics workspace, which is then used by Microsoft Sentinel to build attack maps, trigger alerts, and create incidents. I measured some security metrics in the insecure environment for 24 hours, apply some security controls to harden the environment, measure metrics for another 24 hours, then show the results
-
-[Design and Configure Vulnerability Scan with Nessus]
-Tools Used: Tenable Nessus, Windows 10, VMware Workstation
-
-Objective: Performed and configured vulnerability scans against Windows 10 Hosts on virtual machines to identify and remediate security flaws. Implemented Vulnerability Management Function on sandbox networks: (Discover, Prioritize, Assess, Report, Remediate and Verify). Developed automated remediation process to preemptively deal with vulnerabilities stemming from Windows updates and third-party software.
 
 
 ## 👨‍💻 Development Projects & Labs:
