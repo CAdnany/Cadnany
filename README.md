@@ -18,7 +18,7 @@ I'm excited to leverage my civilian and educational experience to make meaningfu
 
 | Skill                                                                            | Associated Project                             |
 | -------------------------------------------------------------------------------- | ---------------------------------------------- |
-| SOC architecture design and data flow mapping                                    | <a href="[https://google.com](https://github.com/CAdnany/socautolab)">SOC Automation Lab</a>|
+| SOC architecture design and data flow mapping                                    | <a href="https://github.com/CAdnany/socautolab">SOC Automation Lab</a>|
 
 
 👨‍💻 Development Projects:
