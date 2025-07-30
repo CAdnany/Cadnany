@@ -1,5 +1,4 @@
-#Hi, I'm Adnan | Cybersecurity Analyst☺
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+#Hi, I'm Adnan | <a href="https://www.linkedin.com/in/adnan-a-59151028b/" rel="nofollow">Cybersecurity Analyst</a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
@@ -19,7 +18,7 @@ I'm excited to leverage my civilian and educational experience to make meaningfu
 
 | Skill                                                                            | Associated Project                             |
 | -------------------------------------------------------------------------------- | ---------------------------------------------- |
-| SOC Automation Lab                                                               |                                                |
+| SOC architecture design and data flow mapping                                    | <a href="https://google.com">SOC Automation Lab</a>|
 
 
 👨‍💻 Development Projects:
