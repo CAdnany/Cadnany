@@ -1,4 +1,4 @@
-# Hello, I'm Adnan
+#Hi, I'm Adnan | Cybersecurity Analyst☺
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
@@ -14,3 +14,21 @@ I am a recent graduate of British Columbia Institute of Technology earning a Cer
 My interest in Penetration Testing, Digital Forensics and Incident Response stems from my natural aptitude for investigative work and passion for problem-solving. As someone dedicated to continuous learning and professional development, I aim to stay up to date with the latest technologies and industry trends. This dedication demonstrates my commitment to excellence and passion for the field. 
  
 I'm excited to leverage my civilian and educational experience to make meaningful contributions to organizations in IT and cybersecurity.
+
+⭐ Featured Projects:
+
+| Skill                                                                            | Associated Project                             |
+| -------------------------------------------------------------------------------- | ---------------------------------------------- |
+| SOC Automation Lab                                                               |                                                |
+
+
+👨‍💻 Development Projects:
+
+| Skill                                                                            | Associated Project                             |
+| -------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Walk-Through: How to Design & Configure A Vulnerability Scan with Tenable Nessus | <a href="https://google.com">Detection Lab</a> |
+| Walk-Through: How To Read Wireshark Logs for Network Traffic                     |                                                |
+| Identifying Brute Force Attack with TCPDump                                      |                                                |
+| Applying Filters to SQL Queries                                                  |                                                |
+| Automate Lists with Python                                                       |                                                |
+| File Permissions in Linux                                                        |                                                |
